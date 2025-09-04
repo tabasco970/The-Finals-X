@@ -69,3 +69,4 @@ Take control of every match in **The Finals**. Track enemies, optimize aim, and 
 | **Can I modify visuals?**        | Yes, Chams, transparency, and overlays are supported. |
  
  
+ 
