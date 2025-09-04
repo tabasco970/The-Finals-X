@@ -68,3 +68,4 @@ Take control of every match in **The Finals**. Track enemies, optimize aim, and 
 | **Support?**                     | Access via our loader community.             |
 | **Can I modify visuals?**        | Yes, Chams, transparency, and overlays are supported. |
  
+ 
